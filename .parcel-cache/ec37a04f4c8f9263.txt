@@ -1,4 +1,4 @@
-4439
+4442
 84C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\apng.js133014384994920000 0
 92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133004372687920000 0
 97C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133004372750000000 0
@@ -12,12 +12,12 @@
 54C:\Apache24\htdocs\maratona_explorer\node_modules\.bin133014386760380567 1
 98C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133004372750000000 0
 109C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133004372750000000 0
-41C:\Apache24\htdocs\maratona_explorer\dist133014393268335580 1
+41C:\Apache24\htdocs\maratona_explorer\dist133015196970546279 1
 70C:\Apache24\htdocs\maratona_explorer\node_modules\weak-lru-cache\tests133014385467298194 1
 65C:\Apache24\htdocs\maratona_explorer\node_modules\.yarn-integrity133014386760799513 0
 55C:\Apache24\htdocs\maratona_explorer\node_modules\@lmdb133014385060919218 1
 92C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\css-overflow.js133014384994920000 0
-47C:\Apache24\htdocs\maratona_explorer\index.html133014418188557781 0
+47C:\Apache24\htdocs\maratona_explorer\index.html133015183906390803 0
 61C:\Apache24\htdocs\maratona_explorer\node_modules\@jridgewell133014385061138616 1
 60C:\Apache24\htdocs\maratona_explorer\node_modules\terser\lib133014385466538497 1
 76C:\Apache24\htdocs\maratona_explorer\node_modules\nth-check\lib\parse.js.map132978983900390000 0
@@ -29,6 +29,21 @@
 49C:\Apache24\htdocs\maratona_explorer\package.json133014386761118672 0
 101C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133004372750000000 0
 112C:\Apache24\htdocs\maratona_explorer\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md132959070959300000 0
+61C:\Apache24\htdocs\maratona_explorer\node_modules\cosmiconfig133014385153338095 1
+82C:\Apache24\htdocs\maratona_explorer\node_modules\react-error-overlay\lib\index.js133004372749540000 0
+90C:\Apache24\htdocs\maratona_explorer\node_modules\update-browserslist-db\node_modules\.bin133014386758869563 1
+54C:\Apache24\htdocs\maratona_explorer\node_modules\@swc133014385060998992 1
+73C:\Apache24\htdocs\maratona_explorer\node_modules\yaml\types\timestamp.js132959071078920000 0
+76C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\value\list.d.ts133004372643650000 0
+58C:\Apache24\htdocs\maratona_explorer\node_modules\posthtml133014385315809870 1
+101C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133014386755809342 0
+84C:\Apache24\htdocs\maratona_explorer\node_modules\css-select\lib\attributes.d.ts.map132959070985710000 0
+82C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\sortDefsChildren.js132959070957740000 0
+95C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\abortcontroller.js133014384994920000 0
+93C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133004372698850000 0
+46C:\Apache24\htdocs\maratona_explorer\README.md133014425884662679 0
+78C:\Apache24\htdocs\maratona_explorer\node_modules\binary-extensions\index.d.ts132959977524590000 0
+72C:\Apache24\htdocs\maratona_explorer\node_modules\timsort\src\timsort.js132959071023620000 0
 77C:\Apache24\htdocs\maratona_explorer\node_modules\domutils\lib\traversal.d.ts132959071092080000 0
 74C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\lib\base64.js132959071013440000 0
 46C:\Apache24\htdocs\maratona_explorer\yarn.lock133014386761018940 0
@@ -67,14 +82,6 @@
 92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\utils\test\input\config\empty.json133004372650320000 0
 98C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133014384991780000 0
 57C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel133014386731888823 1
-61C:\Apache24\htdocs\maratona_explorer\node_modules\cosmiconfig133014385153338095 1
-82C:\Apache24\htdocs\maratona_explorer\node_modules\react-error-overlay\lib\index.js133004372749540000 0
-90C:\Apache24\htdocs\maratona_explorer\node_modules\update-browserslist-db\node_modules\.bin133014386758859585 1
-54C:\Apache24\htdocs\maratona_explorer\node_modules\@swc133014385060998992 1
-73C:\Apache24\htdocs\maratona_explorer\node_modules\yaml\types\timestamp.js132959071078920000 0
-76C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\value\list.d.ts133004372643650000 0
-58C:\Apache24\htdocs\maratona_explorer\node_modules\posthtml133014385315809870 1
-101C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133014386755809342 0
 64C:\Apache24\htdocs\maratona_explorer\node_modules\domelementtype133014385154679426 1
 84C:\Apache24\htdocs\maratona_explorer\node_modules\node-addon-api\tools\conversion.js132959070974090000 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\nested133014385530143518 1
@@ -121,12 +128,12 @@
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\MM.js133014384994920000 0
 58C:\Apache24\htdocs\maratona_explorer\node_modules\anymatch133014386740956199 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\ZW.js133014384994920000 0
-56C:\Apache24\htdocs\maratona_explorer\node_modules\braces133014386740698302 1
+56C:\Apache24\htdocs\maratona_explorer\node_modules\braces133014386740976264 1
 84C:\Apache24\htdocs\maratona_explorer\node_modules\utility-types\dist\mapped-types.js132959070985680000 0
 92C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\node_modules\node-addon-api\README.md133004372755270000 0
 101C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\credential-management.js133014384994920000 0
 56C:\Apache24\htdocs\maratona_explorer\node_modules\semver133014385315955480 1
-97C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\test\fixtures\plugins\node_modules133014385143520783 1
+97C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\test\fixtures\plugins\node_modules133014385145718017 1
 58C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\lib133014385468969483 1
 56C:\Apache24\htdocs\maratona_explorer\node_modules\base-x133014385150506753 1
 67C:\Apache24\htdocs\maratona_explorer\node_modules\binary-extensions133014386741036101 1
@@ -273,7 +280,7 @@
 73C:\Apache24\htdocs\maratona_explorer\node_modules\terser\lib\sourcemap.js133004372209420000 0
 102C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\page-transition-events.js133014384994920000 0
 64C:\Apache24\htdocs\maratona_explorer\node_modules\is-binary-path133014386744219513 1
-60C:\Apache24\htdocs\maratona_explorer\node_modules\is-extglob133014386744638365 1
+60C:\Apache24\htdocs\maratona_explorer\node_modules\is-extglob133014386744648340 1
 88C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\syntax\node\Identifier.js132959070992550000 0
 57C:\Apache24\htdocs\maratona_explorer\node_modules\is-glob133014386743989899 1
 90C:\Apache24\htdocs\maratona_explorer\node_modules\csso\lib\replace\property\font-weight.js132959070993040000 0
@@ -286,7 +293,7 @@
 107C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133004372750000000 0
 70C:\Apache24\htdocs\maratona_explorer\node_modules\domhandler\readme.md132959071055600000 0
 57C:\Apache24\htdocs\maratona_explorer\node_modules\is-json133014385164646979 1
-67C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\logger133014386751097112 1
+67C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\logger133014386751768290 1
 98C:\Apache24\htdocs\maratona_explorer\node_modules\abortcontroller-polyfill\dist\abortcontroller.js132959070933950000 0
 104C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133004372652550000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\src133014385413563732 1
@@ -387,7 +394,7 @@
 101C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133004372750000000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\@babel\highlight\README.md133014385021600000 0
 69C:\Apache24\htdocs\maratona_explorer\node_modules\stable\package.json132959070994850000 0
-78C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\src133014386733792017 1
+78C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\src133014386747468757 1
 65C:\Apache24\htdocs\maratona_explorer\node_modules\posthtml-parser133014385310351507 1
 82C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\node_modules\node-addon-api133014385171121300 1
 113C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133004372677160000 0
@@ -451,7 +458,7 @@
 77C:\Apache24\htdocs\maratona_explorer\node_modules\@types\parse-json\README.md132959071070650000 0
 75C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\lib\index.js133014384991780000 0
 125C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133014384989230000 0
-63C:\Apache24\htdocs\maratona_explorer\node_modules\source-map-js133014386745995670 1
+63C:\Apache24\htdocs\maratona_explorer\node_modules\source-map-js133014386746065486 1
 85C:\Apache24\htdocs\maratona_explorer\node_modules\type-fest\source\readonly-deep.d.ts132959071019580000 0
 69C:\Apache24\htdocs\maratona_explorer\node_modules\terser\lib\compress133014385515298306 1
 93C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\input-pattern.js133014384994920000 0
@@ -478,10 +485,10 @@
 86C:\Apache24\htdocs\maratona_explorer\node_modules\cosmiconfig\dist\ExplorerBase.js.map132959071005110000 0
 57C:\Apache24\htdocs\maratona_explorer\node_modules\timsort133014385322387609 1
 96C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133004372686290000 0
-60C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types133014386750087000 1
+60C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types133014386750257188 1
 99C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133014384991780000 0
 66C:\Apache24\htdocs\maratona_explorer\node_modules\tslib\tslib.html132978983876320000 0
-64C:\Apache24\htdocs\maratona_explorer\node_modules\to-regex-range133014386746445170 1
+64C:\Apache24\htdocs\maratona_explorer\node_modules\to-regex-range133014386746591423 1
 90C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\codeframe\test\codeframe.test.js133004372686260000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\node-addon-api\common.gypi132959070974090000 0
 55C:\Apache24\htdocs\maratona_explorer\node_modules\tslib133014385325038600 1
@@ -680,9 +687,7 @@
 69C:\Apache24\htdocs\maratona_explorer\node_modules\yaml\browser\seq.js132959071078920000 0
 75C:\Apache24\htdocs\maratona_explorer\node_modules\utility-types\SECURITY.md132959070985680000 0
 88C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\runtime-js\lib\helpers\browser133014385531402769 1
-83C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\let.js133014384994920000 0
-77C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\lib\array-set.js132959071013440000 0
-135C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1133014385145983884 1
+135C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1133014385146102950 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\VU.js133014384994920000 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\css-font-palette.js133014384994920000 0
 68C:\Apache24\htdocs\maratona_explorer\node_modules\yaml\browser\types133014385516275720 1
@@ -843,7 +848,7 @@
 79C:\Apache24\htdocs\maratona_explorer\node_modules\weak-lru-cache\dist\index.cjs132959071100200000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\AS.js133014384994920000 0
 88C:\Apache24\htdocs\maratona_explorer\node_modules\term-size\vendor\windows\term-size.exe132959070950390000 0
-91C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-css\node_modules\.bin133014386756468471 1
+91C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-css\node_modules\.bin133014386756498384 1
 79C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\removeViewBox.js132959070957740000 0
 106C:\Apache24\htdocs\maratona_explorer\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md132959070959300000 0
 60C:\Apache24\htdocs\maratona_explorer\node_modules\parcel\lib133014385450097382 1
@@ -962,7 +967,7 @@
 96C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\broadcastchannel.js133014384994920000 0
 72C:\Apache24\htdocs\maratona_explorer\node_modules\domelementtype\lib\esm133014385487725966 1
 78C:\Apache24\htdocs\maratona_explorer\node_modules\type-fest\source\except.d.ts132959071019580000 0
-80C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1133014385123437289 1
+80C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1133014385138222961 1
 90C:\Apache24\htdocs\maratona_explorer\node_modules\posthtml-parser\dist\location-tracker.js132959070967190000 0
 75C:\Apache24\htdocs\maratona_explorer\node_modules\import-fresh\package.json132959071071090000 0
 78C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\lib133014386747468757 1
@@ -1061,11 +1066,6 @@
 152C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\package.json133004372775630000 0
 66C:\Apache24\htdocs\maratona_explorer\node_modules\timsort\index.js132959071023620000 0
 67C:\Apache24\htdocs\maratona_explorer\node_modules\timsort\README.md132959071023620000 0
-84C:\Apache24\htdocs\maratona_explorer\node_modules\css-select\lib\attributes.d.ts.map132959070985710000 0
-82C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\sortDefsChildren.js132959070957740000 0
-95C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\abortcontroller.js133014384994920000 0
-78C:\Apache24\htdocs\maratona_explorer\node_modules\binary-extensions\index.d.ts132959977524590000 0
-72C:\Apache24\htdocs\maratona_explorer\node_modules\timsort\src\timsort.js132959071023620000 0
 74C:\Apache24\htdocs\maratona_explorer\node_modules\timsort\build\timsort.js132959071023620000 0
 85C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-postcss\LICENSE133004372731040000 0
 98C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133014385543024762 1
@@ -1181,7 +1181,7 @@
 66C:\Apache24\htdocs\maratona_explorer\node_modules\term-size\vendor133014385458638915 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\DJ.js133014384994920000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\term-size\vendor\.DS_Store132959070950390000 0
-92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-json\node_modules\.bin133014386757122365 1
+92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-json\node_modules\.bin133014386757182186 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\TK.js133014384994920000 0
 73C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\package.json132959071013440000 0
 95C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133004372717260000 0
@@ -1190,7 +1190,7 @@
 62C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins133014385494651864 1
 64C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\README.md132959070957740000 0
 67C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\graph\src133014385414540280 1
-84C:\Apache24\htdocs\maratona_explorer\node_modules\msgpackr-extract\node_modules\.bin133014386758480627 1
+84C:\Apache24\htdocs\maratona_explorer\node_modules\msgpackr-extract\node_modules\.bin133014386758520510 1
 86C:\Apache24\htdocs\maratona_explorer\node_modules\cosmiconfig\dist\cacheWrapper.js.map132959071005110000 0
 101C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\text-underline-offset.js133014384994920000 0
 91C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\addAttributesToSVGElement.js132959070957740000 0
@@ -1242,7 +1242,7 @@
 80C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\value\function.d.ts133004372643650000 0
 87C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-json\node_modules133014386757122365 1
 86C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\removeOffCanvasPaths.js132959070957740000 0
-65C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\util133014386737669400 1
+65C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\util133014386751107092 1
 80C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\removeUnusedNS.js132959070957740000 0
 80C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\serializer.js133004372677160000 0
 77C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\removeXMLNS.js132959070957740000 0
@@ -1264,7 +1264,7 @@
 77C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\plugins\_transforms.js132959070957740000 0
 71C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\lib\css-tools.js132959070957740000 0
 91C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-posthtml\package.json133004372738990000 0
-67C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\legacy133014386751788237 1
+67C:\Apache24\htdocs\maratona_explorer\node_modules\sass\types\legacy133014386752608630 1
 68C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\lib\parser.js132959070957740000 0
 95C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\test\fixtures\has-foo133014385530063724 1
 73C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\lib\stringifier.js132959070957740000 0
@@ -1280,6 +1280,7 @@
 103C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133014384994920000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\PA.js133014384994920000 0
 87C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\test\PublicAsset.test.js133004372677160000 0
+71C:\Apache24\htdocs\maratona_explorer\assets\styles\components\Main.scss133015196968931062 0
 73C:\Apache24\htdocs\maratona_explorer\node_modules\svgo\lib\svgo\config.js132959070957740000 0
 93C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133014384991780000 0
 68C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\utils133014385496419465 1
@@ -1350,6 +1351,8 @@
 66C:\Apache24\htdocs\maratona_explorer\node_modules\braces\README.md132959977520230000 0
 74C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\source-map.js132959071013440000 0
 70C:\Apache24\htdocs\maratona_explorer\node_modules\parse-json\readme.md132959071075420000 0
+83C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\let.js133014384994920000 0
+77C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\lib\array-set.js132959071013440000 0
 78C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\lib\base64-vlq.js132959071013440000 0
 91C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\svg-filters.js133014384994920000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\source-map\lib\binary-search.js132959071013440000 0
@@ -1930,7 +1933,6 @@
 109C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133004372750000000 0
 105C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133004372750000000 0
 107C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133004372750000000 0
-84C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\PackagerRunner.js133004372677160000 0
 113C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133004372750000000 0
 67C:\Apache24\htdocs\maratona_explorer\node_modules\callsites\license132959071110410000 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map132959070985710000 0
@@ -1958,7 +1960,7 @@
 99C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133004372750000000 0
 103C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133014384994920000 0
 94C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133004372717260000 0
-92C:\Apache24\htdocs\maratona_explorer\node_modules\@mischnic\json-sourcemap\node_modules\.bin133014386755124535 1
+92C:\Apache24\htdocs\maratona_explorer\node_modules\@mischnic\json-sourcemap\node_modules\.bin133014386755181042 1
 102C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-json\node_modules\.bin\json5.cmd133014386757182186 0
 84C:\Apache24\htdocs\maratona_explorer\node_modules\domutils\lib\manipulation.d.ts.map132959071092080000 0
 99C:\Apache24\htdocs\maratona_explorer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133004372750000000 0
@@ -2182,7 +2184,7 @@
 90C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\web-serial.js133014384994920000 0
 69C:\Apache24\htdocs\maratona_explorer\node_modules\has-flag\index.d.ts132959070973910000 0
 67C:\Apache24\htdocs\maratona_explorer\node_modules\has-flag\index.js132959070973910000 0
-64C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\types133014386733245200 1
+64C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\types133014386747398933 1
 97C:\Apache24\htdocs\maratona_explorer\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133014385007370000 0
 77C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\utils\clone.js132959070992550000 0
 66C:\Apache24\htdocs\maratona_explorer\node_modules\has-flag\license132959070973910000 0
@@ -2275,7 +2277,7 @@
 94C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\serviceworkers.js133014384994920000 0
 116C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133014385542935019 1
 92C:\Apache24\htdocs\maratona_explorer\node_modules\entities\lib\generated\decode-data-html.js132959071090110000 0
-95C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-postcss\node_modules\.bin133014386757232067 1
+95C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-postcss\node_modules\.bin133014386757271947 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\SA.js133014384994920000 0
 93C:\Apache24\htdocs\maratona_explorer\node_modules\entities\lib\generated\decode-data-xml.d.ts132959071090110000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\OM.js133014384994920000 0
@@ -2284,7 +2286,7 @@
 93C:\Apache24\htdocs\maratona_explorer\node_modules\electron-to-chromium\chromium-versions.json133014384995010000 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\electron-to-chromium\full-chromium-versions.js133014384995010000 0
 85C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\watcher\src\watchman\IPC.hh132959070931320000 0
-62C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\lib133014386746930163 1
+62C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\lib133014386747279255 1
 77C:\Apache24\htdocs\maratona_explorer\node_modules\domelementtype\package.json132959071116700000 0
 68C:\Apache24\htdocs\maratona_explorer\node_modules\domelementtype\lib133014385359914654 1
 87C:\Apache24\htdocs\maratona_explorer\node_modules\electron-to-chromium\full-versions.js133014384995010000 0
@@ -2574,6 +2576,7 @@
 84C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\syntax\node\Atrule.js132959070992550000 0
 83C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\syntax\node\Block.js132959070992550000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\regions\GN.js133014384994920000 0
+73C:\Apache24\htdocs\maratona_explorer\assets\styles\components\Footer.scss133015197211019125 0
 99C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo133014386755948984 0
 86C:\Apache24\htdocs\maratona_explorer\node_modules\css-tree\lib\syntax\node\Brackets.js132959070992550000 0
 99C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133014384989230000 0
@@ -2735,7 +2738,7 @@
 67C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\index.js132959977520080000 0
 95C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133014384991780000 0
 68C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\README.md132959977520080000 0
-61C:\Apache24\htdocs\maratona_explorer\assets\styles\index.scss133014393261833755 0
+61C:\Apache24\htdocs\maratona_explorer\assets\styles\index.scss133015140304664869 0
 73C:\Apache24\htdocs\maratona_explorer\node_modules\braces\lib\constants.js132959977520230000 0
 75C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\types\index.d.ts132959977520080000 0
 75C:\Apache24\htdocs\maratona_explorer\node_modules\chokidar\lib\constants.js132959977520080000 0
@@ -3287,7 +3290,7 @@
 99C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\fs-search\fs-search.linux-arm64-musl.node133004372675490000 0
 92C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\script-defer.js133014384994920000 0
 97C:\Apache24\htdocs\maratona_explorer\node_modules\@babel\helper-validator-identifier\package.json133014385024520000 0
-60C:\Apache24\htdocs\maratona_explorer\node_modules\braces\lib133014386747189439 1
+60C:\Apache24\htdocs\maratona_explorer\node_modules\braces\lib133014386747279255 1
 94C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\scrollintoview.js133014384994920000 0
 102C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133014384994920000 0
 93C:\Apache24\htdocs\maratona_explorer\node_modules\caniuse-lite\data\features\server-timing.js133014384994920000 0
@@ -3409,7 +3412,7 @@
 88C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\utils\src\isDirectoryInside.js133004372650320000 0
 82C:\Apache24\htdocs\maratona_explorer\node_modules\@swc\helpers\lib\_ts_decorate.js133014384991780000 0
 70C:\Apache24\htdocs\maratona_explorer\node_modules\browserslist\node.js133014384985220000 0
-109C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope133014385144141260 1
+109C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope133014385145767848 1
 75C:\Apache24\htdocs\maratona_explorer\node_modules\browserslist\package.json133014384985220000 0
 72C:\Apache24\htdocs\maratona_explorer\node_modules\browserslist\README.md133014384985220000 0
 98C:\Apache24\htdocs\maratona_explorer\node_modules\browserslist\node_modules\.bin\browserslist-lint133014386757779600 0
@@ -3442,7 +3445,7 @@
 69C:\Apache24\htdocs\maratona_explorer\node_modules\ansi-styles\license132959070925910000 0
 80C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\lib133014385410485639 1
 71C:\Apache24\htdocs\maratona_explorer\node_modules\ansi-styles\readme.md132959070925910000 0
-139C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133014385145992522 1
+139C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133014385146233932 1
 63C:\Apache24\htdocs\maratona_explorer\node_modules\acorn\LICENSE132959071018780000 0
 65C:\Apache24\htdocs\maratona_explorer\node_modules\acorn\README.md132959071018780000 0
 71C:\Apache24\htdocs\maratona_explorer\node_modules\acorn\dist\acorn.d.ts132959071018780000 0
@@ -3772,7 +3775,7 @@
 95C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133004372738260000 0
 87C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\package.json133006257014170000 0
 115C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js133004372775630000 0
-92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\node_modules\.bin133014386757430529 1
+92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-sass\node_modules\.bin133014386757460450 1
 81C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\test\utils.test.js133004372677160000 0
 92C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\lib\builtins.js133004372775630000 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133004372732910000 0
@@ -3819,7 +3822,7 @@
 102C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133004372720250000 0
 104C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133004372707190000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\src133014385431302140 1
-90C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\node_modules\.bin133014386756842986 1
+90C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\node_modules\.bin133014386757062510 1
 73C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\src\public133014385508294316 1
 103C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\node_modules\.bin\browserslist133014386756667935 0
 96C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133004372720250000 0
@@ -3977,7 +3980,7 @@
 97C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\node_modules\.bin\browserslist.cmd133014386755330628 0
 85C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\src\Yarn.js133004372676780000 0
 88C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\lib\types.d.ts133004372676780000 0
-91C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\node_modules\.bin133014386756158412 1
+91C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\node_modules\.bin133014386756193575 1
 98C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\node_modules\.bin\semver133014386756203555 0
 102C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\package-manager\node_modules\.bin\semver.cmd133014386756203555 0
 87C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-terser\node_modules133014386756098573 1
@@ -3988,7 +3991,6 @@
 76C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\lib133014385413314436 1
 85C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\node_modules133014386756038757 1
 85C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\package.json133004372698850000 0
-93C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133004372698850000 0
 99C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133014386756068677 0
 83C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-image\native.js133004372704460000 0
 86C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\optimizer-image\node_modules133014386755978895 1
@@ -4073,7 +4075,7 @@
 113C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133014385543800678 1
 122C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133004372775630000 0
 126C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json133004372775630000 0
-126C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133014385145767848 1
+126C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133014385145992522 1
 151C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm133014385543830445 1
 159C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\dist.js133004372775630000 0
 105C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133004372775630000 0
@@ -4227,6 +4229,7 @@
 87C:\Apache24\htdocs\maratona_explorer\node_modules\@jridgewell\trace-mapping\src\sort.ts133014385007370000 0
 89C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133004372677160000 0
 81C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\Environment.js133004372677160000 0
+84C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\PackagerRunner.js133004372677160000 0
 76C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\Parcel.js133004372677160000 0
 82C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\ParcelConfig.js133004372677160000 0
 89C:\Apache24\htdocs\maratona_explorer\node_modules\@parcel\core\lib\ParcelConfig.schema.js133004372677160000 0
@@ -4432,9 +4435,9 @@
 65C:\Apache24\htdocs\maratona_explorer\node_modules\.bin\semver.cmd133014386759916690 0
 63C:\Apache24\htdocs\maratona_explorer\node_modules\.bin\svgo.cmd133014386759976537 0
 61C:\Apache24\htdocs\maratona_explorer\node_modules\.bin\terser133014386760030674 0
-51C:\Apache24\htdocs\maratona_explorer\dist\index.css133014393268195955 0
-55C:\Apache24\htdocs\maratona_explorer\dist\index.css.map133014393268325593 0
+51C:\Apache24\htdocs\maratona_explorer\dist\index.css133015196970496328 0
+55C:\Apache24\htdocs\maratona_explorer\dist\index.css.map133015196970536238 0
 47C:\Apache24\htdocs\maratona_explorer\assets\img133014384466103503 1
 50C:\Apache24\htdocs\maratona_explorer\assets\styles133014384240375624 1
-61C:\Apache24\htdocs\maratona_explorer\assets\styles\components133014392997881680 1
+61C:\Apache24\htdocs\maratona_explorer\assets\styles\components133015139776525056 1
 72C:\Apache24\htdocs\maratona_explorer\assets\styles\components\Reset.scss133014393026370301 0
