@@ -1,6 +1,12 @@
 body {
-  background: #EDF2FF;
+  background: $Bg-color;
+  color: $Text-color;
   font-family: 'Roboto' sans-serif;
+}
+
+body.Dark {
+  background: #00082F;
+  color: #ffff;
 }
 
 a {
@@ -24,13 +30,11 @@ a {
   }
 
   h1 {
-    color: #00082F;
     font-size: 32px;
     font-weight: 700;
   }
 
   p {
-    color: #00082F;
     font-family: 'Roboto Mono' sans-serif;
     font-size: 18px;
     opacity: 0.8;

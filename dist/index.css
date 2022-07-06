@@ -34,8 +34,14 @@ table {
 }
 
 body {
+  color: #00082f;
   font-family: "Roboto" sans-serif;
   background: #edf2ff;
+}
+
+body.Dark {
+  color: #fff;
+  background: #00082f;
 }
 
 a {
@@ -58,13 +64,11 @@ a {
 }
 
 .Container h1 {
-  color: #00082f;
   font-size: 32px;
   font-weight: 700;
 }
 
 .Container p {
-  color: #00082f;
   font-family: "Roboto Mono" sans-serif;
   opacity: .8;
   font-size: 18px;
@@ -98,7 +102,6 @@ a {
 }
 
 .Footer {
-  color: #000b2f;
   opacity: .6;
   font-size: 12px;
   font-weight: 700;
